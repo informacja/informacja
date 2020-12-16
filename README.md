@@ -3,7 +3,7 @@ program = life.inspired;  // relief support along the way cheered it up
 
 Structure can give you many things, but there no common sense.
 Translation Language - toDo
-algorithmFormula provide linear dev trending
+AlgorithmFormula provide linear dev trending
 ```
 
 <!--
