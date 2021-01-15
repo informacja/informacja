@@ -2,7 +2,7 @@
 proGram = life.inspired;  // relief support along the way cheered it up
 
 Structure can give you many things, but there no common sense.
-Translation Language - toDo
+Translation Language for humans - toDo
 AlgorithmFormula provide irrelevant linear dev trending analise.
 ```
 
