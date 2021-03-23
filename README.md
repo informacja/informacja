@@ -1,5 +1,6 @@
 ```js
-proGram = life.inspired;  // relief support along the way cheered it up
+// information = interpretation + context
+proGram: Code = life.inspired;  // Retain relief support along the way cheered it up 
 
 Structure can give you many things, but there no common sense.
 humanReadable translationLanguage - toDo
