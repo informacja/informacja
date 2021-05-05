@@ -3,7 +3,7 @@
 program: DataCode = life.inspired;  // Retain relief support along the way cheered it up 
 
 Structure can give you many things, but there no common sense.
-humanOriented RefernenceSystem translationLanguage - toDo
+humanOriented translationLanguage - toDo /* RefernenceSystem */
 AlgorithmFormula provide irrelevant linear dev trending analise.
 ```
 
