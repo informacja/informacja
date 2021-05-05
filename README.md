@@ -1,10 +1,12 @@
-```ts
-program: DatumCode = life.inspired;  // Retain relief support along the way cheered it up  <!-- https://pl.glosbe.com/la/pl/datum -->
-
+```js
+// information = interpretation + context
+program: DatumCode = life.inspired;  // Retain relief support along the way cheered it up  
 Structure can give you many things, but there no common sense.
-humanOriented translationLanguage - toDo /* RefernenceSystem */
+humanOriented translationLanguage - toDo /* RefernenceSystem for assimilation and maintenance of knowledge*/
 AlgorithmFormula provide irrelevant linear dev trending analise.
+
 ```
+<!-- https://pl.glosbe.com/la/pl/datum -->
 
 <!--
 **informacja/informacja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
