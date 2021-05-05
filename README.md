@@ -1,6 +1,6 @@
 ```js
 // information = interpretation + context
-program: CodeData = life.inspired;  // Retain relief support along the way cheered it up 
+program: dataCode = life.inspired;  // Retain relief support along the way cheered it up 
 
 Structure can give you many things, but there no common sense.
 humanOriented translationLanguage - toDo
