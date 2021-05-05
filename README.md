@@ -1,6 +1,5 @@
-```js
-// information = interpretation + context
-program: DataCode = life.inspired;  // Retain relief support along the way cheered it up 
+```ts
+program: DatumCode = life.inspired;  // Retain relief support along the way cheered it up  <!-- https://pl.glosbe.com/la/pl/datum -->
 
 Structure can give you many things, but there no common sense.
 humanOriented translationLanguage - toDo /* RefernenceSystem */
