@@ -1,6 +1,7 @@
 ```js
 // information = interpretation + context
 program: DatumCode = life.inspired;  // Retain relief support along the way cheered it up  
+
 Structure can give you many things, but there no common sense.
 humanOriented translationLanguage - toDo /* RefernenceSystem for assimilation and maintenance of knowledge*/
 AlgorithmFormula provide irrelevant linear dev trending analise.
