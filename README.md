@@ -3,7 +3,7 @@
 program: DatumCode = life.inspired;  // Retain relief support along the way cheered it up  
 
 Structure can give you many things, but there no common sense.
-humanPragmaticOriented translationLanguage - toDo /* RefernenceSystem for assimilation and sustain maintenance of knowledge */
+humanPragmaticOriented translationLanguage - toDo /*RefernenceSystem for assimilation and sustain maintenance of knowledge*/
 AlgorithmFormula provide irrelevant linear dev trending analise.
 
 ```
