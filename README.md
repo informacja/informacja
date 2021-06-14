@@ -7,6 +7,14 @@ humanPragmaticOriented translationLanguage - toDo /*RefernenceSystem for assimil
 AlgorithmFormula provide irrelevant linear dev trending analise.
 
 ```
+
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=informacja&layout=compact)](https://github.com/informacja)
+
+</details>
 <!-- https://pl.glosbe.com/la/pl/datum -->
 
 <!--
