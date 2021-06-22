@@ -1,5 +1,5 @@
 ```js
-// information = interpretation + context
+//  def. information = interpretation + context
 program: DatumCode = life.inspired;  // Retain relief support along the way cheered it up  
 
 Structure can give you many things, but there no common sense.
@@ -10,7 +10,7 @@ AlgorithmFormula provide irrelevant linear dev trending analise.
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary> <a href="https://www.youtube.com/watch?v=_dC3Mx8fLBE&t=1594s">:zap: Github Stats </a></summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=informacja&layout=compact)](https://github.com/informacja)
 
