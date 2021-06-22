@@ -1,4 +1,4 @@
-```js
+```js def. informacja to zawężenie zbioru chaotycznego z większymi możliwościami do podzbioru (przedziału) bardziej zawężonego; i uporządkowanego warunkowo ( np. serie i grupy)
 //  def. information = interpretation + context
 program: DatumCode = life.inspired;  // Retain relief support along the way cheered it up  
 
